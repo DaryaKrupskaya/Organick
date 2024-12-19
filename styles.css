@@ -105,6 +105,7 @@ button:hover,
 .cart-icon-container:hover {
   cursor: pointer;
   filter: brightness(1.15);
+  text-decoration: none;
 }
 
 .green {
